@@ -14,7 +14,7 @@
    
 ## Skills   
    | Rank | Ability |
-   |:---:|:---:|
+   |:----:|:----:|
    | junior | JavaScript |
    | junior | Git&Github |
    
