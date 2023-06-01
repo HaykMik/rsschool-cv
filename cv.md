@@ -12,9 +12,10 @@
 ## About me TODO  
    I want to become a junior JS developer. 
    
-## Skills   
+## Skills 
+
    | Rank | Ability |
-   |:---------:|:---------:|
+   |:---:|:---:|
    | junior | JavaScript |
    | junior | Git&Github |
    
