@@ -30,7 +30,7 @@ function greet(name) {
    Fundamentals of Computer Science [IT-Academy](https://www.linkedin.com/school/it-academy/)
    
 ## Work Expirience
-   [rsschool-cv](https://github.com/HaykMik/rsschool-cv)
+   [About me](https://github.com/HaykMik/HaykMik)
    
 ## English 
    A2 — Pre-Intermediate 
