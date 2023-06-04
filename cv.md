@@ -29,7 +29,8 @@ function greet(name) {
    
 ## Education  
    Fundamentals of Computer Science | [IT-Academy](https://www.linkedin.com/school/it-academy/)  
-   HTML Course | [CodeBasics](https://code-basics.com/ru/languages/html)
+   HTML Course | [CodeBasics](https://code-basics.com/ru/languages/html)  
+   CSS Course | [CodeBasics](https://code-basics.com/ru/languages/css)
    
 ## Work Expirience
    [rsschool-cv](https://github.com/HaykMik/rsschool-cv)
