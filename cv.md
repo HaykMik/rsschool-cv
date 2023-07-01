@@ -9,7 +9,7 @@
    * [Linkedin](https://www.linkedin.com/in/mikayelian/)  
    * Discord-server rs-school — Hayk (@haykmik)
    
-## About me TODO  
+## About me
    I want to become a junior JS developer. 
    
 ## Skills 
