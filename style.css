@@ -20,3 +20,8 @@ table.border td, table.border th {
 table.border th {
     background: #e0e0e0;
 }
+
+
+* {
+    box-sizing: border-box;
+}
