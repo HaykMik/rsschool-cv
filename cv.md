@@ -11,7 +11,7 @@
    * Discord-server rs-school — Hayk (@haykmik)
    
 ## About me
-   I want to become a junior JS developer. 
+   I'm a Front-end Developer based in Minsk, Belarus. I have knowledge of JavaScript, HTML5, CSS, Git. I want to give people something good, modern and get real expitience for that. 
    
 ## Skills 
 
