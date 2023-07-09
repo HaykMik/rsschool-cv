@@ -3,6 +3,9 @@ html {
     background-color: white;
 }
 
+.round-image {
+    clip-path: circle(40%);
+}
 
 body {
     font-family: 'Lato', sans-serif;
@@ -14,30 +17,25 @@ body {
     justify-content: space-between;
 }
 
-
 .container {
     max-width: 1440px;
     margin: 0 auto;
 }
-
 
 .main-container {
     display: flex;
     flex-wrap: wrap;
 }
 
-
 code {
     font-size: 20px;
 }
-
 
 @media (max-width: 768px) {
     .section {
         width: 100%;
     }
 }
-
 
 .nav-list {
     display: flex;
@@ -52,18 +50,15 @@ code {
     transition: .3s;
 }
 
-
 .section-item a {
     color: #829985;
     text-decoration: none;
     transition: color 0.5s;
 }
 
-
 .section-item a:hover {
     color: #4d2323;
 }
-
 
 * {
     box-sizing: border-box;
