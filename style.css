@@ -67,3 +67,7 @@ a {
 * {
     box-sizing: border-box;
 }
+
+.info-footer {
+    color: rgb(0, 0, 0, 0.5);
+}
