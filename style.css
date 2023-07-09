@@ -1,5 +1,7 @@
 html {
     scroll-behavior: smooth;
+    width: 100vw;
+    height: 100vh;
 }
 
 .round-image {
@@ -7,6 +9,8 @@ html {
 }
 
 body {
+    width: 100vw;
+    height: 100vh;
     font-family: 'Lato', sans-serif;
     min-height: 100vh;
     margin: 0;
