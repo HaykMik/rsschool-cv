@@ -1,3 +1,4 @@
+![photo](https://github.com/HaykMik/rsschool-cv/blob/rsschool-cv-html/assets/img/MyPhoto.png)
 # Artem Mikaelian
    
 ## Junior JavaScript Developer
